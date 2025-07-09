@@ -32,7 +32,7 @@ function Projects() {
         "This responsive website showcases my projects, skills, and contact details using React and Tailwind CSS.",
       tech: ["React", "Tailwind", "AOS"],
       github: "https://github.com/parthiban-Arumugam/portfolio",
-      live: "https://yourname.netlify.app",
+      live: "https://parthibanarumugam.netlify.app/",
     },
     {
       title: "Credit Card Fraud Detection",
