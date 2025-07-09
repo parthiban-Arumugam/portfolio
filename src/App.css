@@ -6,6 +6,6 @@ header ul li {
   @apply px-2;
 }
 
-.mobile-nav{
+.mobile-nav {
   @apply fixed top-10  w-full h-1/5;
 }
