@@ -12,7 +12,7 @@ const Contact = () => {
     <>
       <section
         id="contact"
-        className="min-h-screen flex flex-col justify-center items-center px-6 py-12 bg-gray-950 text-white"
+        className="min-h-screen flex flex-col justify-center items-center px-6 py-12 text-white"
       >
         <h1
           className="text-4xl font-bold text-cyan-400 mb-6"
