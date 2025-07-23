@@ -86,7 +86,7 @@ const Home = () => {
         {showButtons && (
           <div className="flex gap-4" data-aos="fade-up">
             <a
-              href="/Parthiban_Resume.pdf"
+              href="/PARTHIBAN__resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
