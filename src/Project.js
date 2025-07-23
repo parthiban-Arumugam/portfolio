@@ -17,6 +17,13 @@ function Projects() {
       github:
         "https://github.com/parthiban-Arumugam/Todo_list_react/tree/master",
     },
+    {
+  title: "WorkNest",
+  description:
+"A full stack app with admin login to manage employee records using React and Spring Boot with a responsive UI.",
+  tech: ["Java", "React", "Spring Boot", "MySQL"],
+  github: "https://github.com/parthiban-Arumugam/work_nest"
+},
 
     {
       title: "Task Manager App",
